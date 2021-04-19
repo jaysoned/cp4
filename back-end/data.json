@@ -1,0 +1,383 @@
+[
+      {
+        "generes": [
+          "Comedy",
+          "Humor",
+          "Fantasy",
+          "Science Fiction",
+          "Adventure"
+        ],
+                "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "rating": 422,
+        "path": "/images/81XSN3hA5gL.jpg"
+      },
+      {
+                "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "rating": 430,
+        "path": "/images/81+IUsYtGTL.jpg",
+        "generes": [
+          "Science Fiction",
+          "Young Adult"
+        ]
+      },
+      {
+        "generes": [
+          "Science Fiction",
+          "Classics",
+          "Political"
+        ],
+                "title": "Dune",
+        "author": "Frank Herbert",
+        "rating": 423,
+        "path": "/images/9780593099322.jpg"
+      },
+      {
+        "generes": [
+          "Classics",
+          "Fiction",
+          "Historical Fiction",
+          "Romance",
+          "Young Adult"
+        ],
+                "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "rating": 410,
+        "path": "/images/9781950435098_p0_v2_s1200x630.jpg"
+      },
+      {
+        "generes": [
+          "Classics",
+          "Fiction",
+          "Young Adult",
+          "Historical"
+        ],
+                "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "rating": 428,
+        "path": "/images/GUEST_1607358e-8a84-4160-b93f-15b30b146a9f.jpg"
+      },
+      {
+        "generes": [
+          "Science Fiction",
+          "Classics",
+          "Dystopia"
+        ],
+                "title": "1984",
+        "author": "George Orwell",
+        "rating": 419,
+        "path": "/images/41E9Z5XaHcL.jpg"
+      },
+      {
+        "generes": [
+          "Classics",
+          "Fiction",
+          "Romance"
+        ],
+                "title": "The Great Gatsby",
+        "author": "Francis Scott Fitzgerald",
+        "rating": 393,
+        "path": "/images/81Q6WkLhX4L.jpg"
+      },
+      {
+        "generes": [
+          "Classics",
+          "Fiction",
+          "Science Fiction",
+          "Dystopia"
+        ],
+                "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "rating": 399,
+        "path": "/images/71OFqSRFDgL.jpg"
+      },
+      {
+        "generes": [
+          "Dystopia",
+          "Philosophy",
+          "Classics",
+          "Fiction"
+        ],
+                "title": "Atlas Shrugged",
+        "author": "Ayn Rand, Leonard Peikoff",
+        "rating": 369,
+        "path": "/images/612URtxh-qL.jpg"
+      },
+      {
+        "generes": [
+          "Classics",
+          "Fiction",
+          "Adventure"
+        ],
+                "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "rating": 379,
+        "path": "/images/indexomadsea.jpg"
+      },
+      {
+        "generes": [
+          "Classics",
+          "Fiction",
+          "Fantasy",
+          "Young Adult",
+          "Animals"
+        ],
+                "title": "Watership Down",
+        "author": "Richard Adams",
+        "rating": 406,
+        "path": "/images/76620.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Classics",
+          "Science Fiction"
+        ],
+                "title": "A Wrinkle in Time",
+        "author": "Madeleine L'Engle",
+        "rating": 399,
+        "path": "/images/510-sv2qzFL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "rating": 448,
+        "path": "/images/81iqZ2HHD-L.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "rating": 443,
+        "path": "/images/51TA3VfN8RL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "rating": 457,
+        "path": "/images/81lAPl9Fl0L.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "rating": 456,
+        "path": "/images/91gZX7sjnpL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Order of the Phoenix",
+        "author": "J.K. Rowling",
+        "rating": 450,
+        "path": "/images/91TpLHDnuFL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "rating": 457,
+        "path": "/images/61sXBXmAWML.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Deathly Hallows",
+        "author": "J.K. Rowling",
+        "rating": 462,
+        "path": "/images/71sH3vxziLL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Young Adult",
+          "Magic"
+        ],
+                "title": "Harry Potter and the Cursed Child: Parts One and Two",
+        "author": "John Tiffany, Jack Thorne, J.K. Rowling",
+        "rating": 359,
+        "path": "/images/71zWjTSsq1L.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Classics",
+          "Fiction",
+          "Adventure"
+        ],
+                "title": "The Fellowship of the Ring (The Lord of the Rings #1)",
+        "author": "J.R.R. Tolkien",
+        "rating": 437,
+        "path": "/images/91jBdaRVqML.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Classics",
+          "Adventure"
+        ],
+                "title": "The Two Towers (The Lord of the Rings #2)",
+        "author": "J.R.R. Tolkien",
+        "rating": 445,
+        "path": "/images/A1y0jd28riL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Classics",
+          "Adventure"
+        ],
+                "title": "The Return of the King (The Lord of the Rings #3)",
+        "author": "J.R.R. Tolkien",
+        "rating": 453,
+        "path": "/images/51xszqr6yrL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Fiction",
+          "Classics",
+          "Adventure",
+          "Young Adult"
+        ],
+                "title": "The Hobbit, or There and Back Again",
+        "author": "J.R.R. Tolkien",
+        "rating": 428,
+        "path": "/images/81rJBESgUPL.jpg"
+      },
+      {
+        "generes": [
+          "Young Adult",
+          "Fiction",
+          "Dystopia",
+          "Fantasy",
+          "Romance",
+          "Adventure"
+        ],
+                "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "rating": 432,
+        "path": "/images/61JfGcL2ljL.jpg"
+      },
+      {
+        "generes": [
+          "Young Adult",
+          "Fiction",
+          "Dystopia",
+          "Fantasy",
+          "Romance",
+          "Adventure"
+        ],
+                "title": "Catching Fire",
+        "author": "Suzanne Collins",
+        "rating": 429,
+        "path": "/images/61VUik8NJ8L.jpg"
+      },
+      {
+        "generes": [
+          "Young Adult",
+          "Fiction",
+          "Dystopia",
+          "Fantasy",
+          "Romance",
+          "Adventure"
+        ],
+                "title": "Mockingjay",
+        "author": "Suzanne Collins",
+        "rating": 405,
+        "path": "/images/61n5pTMvmpL.jpg"
+      },
+      {
+        "generes": [
+          "Young Adult",
+          "Fantasy",
+          "Romance",
+          "Fiction",
+          "Vampires"
+        ],
+                "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "rating": 361,
+        "path": "/images/71gfFjhxYgL.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Young Adult",
+          "Fiction",
+          "Romance",
+          "Vampires"
+        ],
+                "title": "New Moon",
+        "author": "Stephenie Meyer",
+        "rating": 355,
+        "path": "/images/982735.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Young Adult",
+          "Fiction",
+          "Romance",
+          "Vampires"
+        ],
+                "title": "Eclipse",
+        "author": "Stephenie Meyer",
+        "rating": 370,
+        "path": "/images/982358234598.jpg"
+      },
+      {
+        "generes": [
+          "Fantasy",
+          "Young Adult",
+          "Fiction",
+          "Romance",
+          "Vampires"
+        ],
+                "title": "Breaking Dawn",
+        "author": "Stephenie Meyer",
+        "rating": 370,
+        "path": "/images/41s-hCyNhQL.jpg"
+      }
+]
